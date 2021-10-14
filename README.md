@@ -1,0 +1,4 @@
+- Hi, I’m @davidxbors
+- I’m interested in cybersecurity, low-level programming and open-source projects in general
+- I’m looking to collaborate on any interesting project in my area of interests.
+- How to reach me: borsdavid@proton.me
